@@ -24,4 +24,7 @@ public class Practica3GIT {
         System.out.println("funcionalidad 1");
     }
     
+    public void funcion2(){
+        System.out.println("funcionalidad 2");
+    }
 }
