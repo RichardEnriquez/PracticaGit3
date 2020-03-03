@@ -20,4 +20,8 @@ public class Practica3GIT {
         System.out.println("--PROYECTO BASE--");
     }
     
+    public void funcion1(){
+        System.out.println("funcionalidad 1");
+    }
+    
 }
