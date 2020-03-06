@@ -20,10 +20,13 @@ public class Practica3GIT {
         System.out.println("--PROYECTO BASE--");
     }
     
-    public void funcion1(){
+    public void funcion1() {
+
+
         System.out.println("funcionalidad 1 funcionalidad hecha por Richard el mero mero");
+
+
     }
-    
     public void funcion2(){
         System.out.println("funcionalidad 2");
     }
