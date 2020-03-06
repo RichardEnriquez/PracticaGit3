@@ -10,13 +10,13 @@ Primero tendremos que crear una rama “develop”:
 
 git branch develop
 
-![image-20200306171223310](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/\image-20200306171223310.png)
+![image-20200306171223310](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171223310.png)
 
 después de crearla nos tendremos que cambiar de rama:
 
 git checkout develop
 
-![image-20200306171323427](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/\image-20200306171323427.png)
+![image-20200306171323427](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171323427.png)
 
 Ahora como estamos en la rama develop podremos crear nuevas funcionalidades y subirlas a la rama develop:
 
