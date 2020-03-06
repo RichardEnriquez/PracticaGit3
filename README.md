@@ -48,7 +48,9 @@ Primero tendremos que invitar al compañero al repositorio e Indicaremos que edi
 
 Ahora que él tiene editado la función tendrá que comittear sobre ella para luego hacer un push al repositorio.
 
-Ahora como yo no hice un pull del proyecto podre crear un conflicto editando esa misma línea y hacer un commit para intentar subir al repositorio                            ![image-20200306171907264](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171907264.png)![image-20200306171937646](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171937646.png)
+Ahora como yo no hice un pull del proyecto podre crear un conflicto editando esa misma línea y hacer un commit para intentar subir al repositorio                           
+![image-20200306171907264](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171907264.png)
+![image-20200306171937646](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171937646.png)
 
 Hacemos un commit sobre este cambio ![image-20200306171945874](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306171945874.png)
 
