@@ -21,7 +21,7 @@ public class Practica3GIT {
     }
     
     public void funcion1(){
-        System.out.println("funcionalidad 1");
+        System.out.println("funcionalidad 1 funcionalidad editada por Kevin");
     }
     
     public void funcion2(){
