@@ -68,5 +68,5 @@ Ahora hacemos el commit de este cambio y pusheamos
 
 Y listo :D así se puede arreglar un conflicto
 
-![image-20200306172100977](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306172100977.png)
+![image-20200306172100977](https://github.com/RichardEnriquez/PracticaGit3/blob/master/img/image-20200306172100977.png) 
 
